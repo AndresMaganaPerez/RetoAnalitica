@@ -2,3 +2,4 @@
 * Andrés Magaña Pérez - A01067963
 * Daniel Rodríguez Figueroa - A01612889
 * Angel Antonio Sánchez Medina - A01412516
+* Edgar Alexander Carrizalez Lerín - A01024901
